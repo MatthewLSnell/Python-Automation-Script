@@ -16,6 +16,6 @@
 <li>Navigates to the Customer Satisfaction Survey Dashboard</li>
 <li>Downloads the Survey Data</li>
 <li>Identifies the latest CSV file by date modified</li>
-<li>Saves this file to a specified location on my local computer</li>(<br>)
+<li>Saves this file to a specified location on my local computer</li><br>
 
 ![Bot](https://github.com/MatthewLSnell/Python-Automation-Script/blob/main/Bot.png)
