@@ -3,7 +3,6 @@
 ## Created an automation script in Python to automatically download my claims operation customer service data and save to a specified location. The saved file serves as the source data for an established Power BI report on Customer Service. I masked the URLs, User credentials to comply with the corporate data retention policy.   
 
 ### Libraries 
-<ol>
 <li>Webbrowser</li>
 <li>Pyautogui</li>
 <li>Glob</li>
@@ -11,7 +10,7 @@
 <li>Pandas</li>
   
 ### This automation script completes the following tasks:
-
+<ol>
 <li>Imports the appropriate Python libraries</li>
 <li>Navigates to the Claims Datamart URL</li>
 <li>Inputs the User's credentials</li>
