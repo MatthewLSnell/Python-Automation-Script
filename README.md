@@ -10,7 +10,6 @@
 <li>Pandas</li>
   
 ### This automation script completes the following tasks:
-<ol>
 <li>Imports the appropriate Python libraries</li>
 <li>Navigates to the Claims Datamart URL</li>
 <li>Inputs the User's credentials</li>
