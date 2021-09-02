@@ -17,4 +17,5 @@
 <li>Downloads the Survey Data</li>
 <li>Identifies the latest CSV file by date modified</li>
 <li>Saves this file to a specified location on my local computer</li>
-  
+
+![Bot](https://github.com/MatthewLSnell/Python-Automation-Script/blob/main/Bot.png)
