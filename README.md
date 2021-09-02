@@ -1,6 +1,6 @@
 # Python Automation Script
 
-## Created an automation script in Python to automatically download my claims operation customer service data and save to a specified location. The saved file serves as the source data for an established Power BI report on Customer Service. I masked the URLs, User credentials to comply with the corporate data retention policy.   
+## Created an automation script in Python to automatically download my claims operation's customer service data and save to a specified file path on my local computer. The saved file serves as the source data for an established Power BI report on Customer Service. I masked the URLs, User credentials to comply with the corporate data retention policy.   
 
 https://nbviewer.jupyter.org/github/MatthewLSnell/Python-Automation-Script/blob/main/cs_data_automation_script.ipynb
 
